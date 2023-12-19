@@ -1,0 +1,35 @@
+[09-Sep-2022 17:52:46 Africa/Dar_es_salaam] PHP Warning:  Undefined array key "username" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 8
+[09-Sep-2022 17:52:46 Africa/Dar_es_salaam] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 17
+[09-Sep-2022 20:41:44 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 28
+[09-Sep-2022 20:41:44 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 30
+[09-Sep-2022 20:41:44 Asia/Kolkata] PHP Warning:  Undefined array key "image" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 31
+[09-Sep-2022 20:41:44 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ichaapur/public_html/fornthand/classess/login_code.php:10) in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 34
+[09-Sep-2022 20:41:51 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 28
+[09-Sep-2022 20:41:51 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 30
+[09-Sep-2022 20:41:51 Asia/Kolkata] PHP Warning:  Undefined array key "image" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 31
+[09-Sep-2022 20:41:51 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ichaapur/public_html/fornthand/classess/login_code.php:10) in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 34
+[09-Sep-2022 20:42:08 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 28
+[09-Sep-2022 20:42:08 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 30
+[09-Sep-2022 20:42:08 Asia/Kolkata] PHP Warning:  Undefined array key "image" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 31
+[09-Sep-2022 20:42:08 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ichaapur/public_html/fornthand/classess/login_code.php:10) in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 34
+[09-Sep-2022 20:42:28 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 28
+[09-Sep-2022 20:42:28 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 30
+[09-Sep-2022 20:42:28 Asia/Kolkata] PHP Warning:  Undefined array key "image" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 31
+[09-Sep-2022 20:42:28 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ichaapur/public_html/fornthand/classess/login_code.php:10) in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 34
+[09-Sep-2022 20:42:43 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 28
+[09-Sep-2022 20:42:43 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 30
+[09-Sep-2022 20:42:43 Asia/Kolkata] PHP Warning:  Undefined array key "image" in /home/ichaapur/public_html/fornthand/classess/login_code.php on line 31
+[25-Sep-2022 15:44:10 UTC] PHP Parse error:  syntax error, unexpected identifier "customerId" in /home/ichaapu1/public_html/ichaa/forntend/classess/request_withdraw_funds_code.php on line 8
+[25-Dec-2022 19:18:10 Africa/Dar_es_salaam] PHP Warning:  Undefined array key "login" in /home/ichaapu1/public_html/classess/login_code.php on line 8
+[25-Dec-2022 19:18:10 Africa/Dar_es_salaam] PHP Warning:  Undefined array key "password" in /home/ichaapu1/public_html/classess/login_code.php on line 9
+[19-Jan-2023 09:41:47 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/ichaapu1/public_html/classess/jodicharts_code.php on line 40
+[17-Mar-2023 09:57:48 Africa/Dar_es_salaam] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'ichaapu1_ayub'@'localhost' (using password: YES) in /home/ichaapu1/public_html/classess/DbConfig.php on line 15
+[17-Mar-2023 09:57:48 Africa/Dar_es_salaam] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/ichaapu1/public_html/classess/etsystem.php on line 73
+[17-Mar-2023 09:57:48 Africa/Dar_es_salaam] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/ichaapu1/public_html/classess/etsystem.php on line 73
+[17-Mar-2023 09:57:48 Africa/Dar_es_salaam] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ichaapu1/public_html/classess/etsystem.php on line 13
+[17-Mar-2023 09:57:48 Africa/Dar_es_salaam] PHP Warning:  Invalid argument supplied for foreach() in /home/ichaapu1/public_html/classess/login_code.php on line 15
+[17-Mar-2023 10:26:37 Africa/Dar_es_salaam] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'ichaapu1_ayub'@'localhost' (using password: YES) in /home/ichaapu1/public_html/classess/DbConfig.php on line 15
+[17-Mar-2023 10:26:37 Africa/Dar_es_salaam] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/ichaapu1/public_html/classess/etsystem.php on line 73
+[17-Mar-2023 10:26:37 Africa/Dar_es_salaam] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/ichaapu1/public_html/classess/etsystem.php on line 73
+[17-Mar-2023 10:26:37 Africa/Dar_es_salaam] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ichaapu1/public_html/classess/etsystem.php on line 13
+[17-Mar-2023 10:26:37 Africa/Dar_es_salaam] PHP Warning:  Invalid argument supplied for foreach() in /home/ichaapu1/public_html/classess/login_code.php on line 15
